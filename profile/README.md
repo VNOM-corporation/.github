@@ -22,7 +22,7 @@
 <p><a href="https://github.com/gabsortega">Gabriel Ortega</a> - BackEnd</p>
 <p><a href="https://github.com/Kajota13">João Morais</a> - FrontEnd</p>
   
-<h3>Documentório</h3>
+<h3>Documentação</h3>
 <p><a href="#">Vitória Marques</a> - Documentação</p>
 
   
